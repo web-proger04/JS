@@ -569,6 +569,14 @@ hr {
 		height: 290px;
 	}
 
+	.customer-form {
+    	padding: 50px;
+	}
+
+	.input-form {
+		padding: 50px 0;
+	}
+
 	.customer-form h3 {
     	width: 189px;
     	font-size: 17px;
@@ -592,8 +600,8 @@ hr {
 
 	.btn2 {
 		width: 195px;
-    	padding: 19px 5px;
-    	font-size: 15px;
+    	padding: 15px;
+    	font-size: 13px;
 	}
 
 	.training {
@@ -601,7 +609,7 @@ hr {
 	}
 
 	.form-paragraph {
-		font-size: 14px;
+		font-size: 12px;
     	width: 195px;
 	}
 
